@@ -1,0 +1,25 @@
+Ans1)Java is platform independent because it is different from other languages like C, C++, etc. which are 
+compiled into platform specific machines while Java is a write once, run anywhere language. A platform is the hardware 
+or software environment in which a program runs.
+
+Ans2) Stack-Stack in java is a section of memory which contains methods, local variables, and reference variables.
+            Stack memory is always referenced in Last-In-First-Out order. Local variables are created in the stack.
+      Heap-Heap is a section of memory which contains Objects and may also contain reference variables. Instance 
+           variables are created in the heap.
+
+Ans3)Public static void main (String args []) 
+1.The public keyword is an access specifies, which allows the programmer to control the visibility of class members. When a
+   class member is preceded by public, then that member may be accessed by code outside the class in which it is declared. 
+   In this case, main ( ) must be declared as public. 
+2.The keyword static allows main ( ) to be called without having to instantiate a particular instance of the class.This is 
+  necessary since main ( ) is called by the Java interpreter before any objects are made. 
+3.The keyword void simply tells the compiler that main ( ) does not return a value. 
+4.Main ( ) is the method, called when a Java application begins. 
+5.String args [ ] declares a parameter named args, which is an array of instances of the class String. In this case, 
+args receives any command-line arguments present when the program is executed. 
+
+Ans4) a)
+
+Ans5) b)
+
+Ans6) No
